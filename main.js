@@ -204,6 +204,11 @@ inputBox.addEventListener("keyup", ()=>{
       display.innerText = "Ntokazi Nelisiwe";
       break;
 
+      case"145699":
+      test.style.display = "flex";
+      display.innerText = "Nikiwe Jika";
+      break;
+
   default:
     {
       test.style.display = "None";
