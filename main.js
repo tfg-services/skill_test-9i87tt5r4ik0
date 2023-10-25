@@ -214,6 +214,67 @@ inputBox.addEventListener("keyup", ()=>{
       display.innerText = "Kimberley Nemakonde";
       break;
 
+      case"617323":
+      test.style.display = "flex";
+      display.innerText = "Sunday Khoza";
+      break;
+
+      case"132157":
+      test.style.display = "flex";
+      display.innerText = "Mokete Sherol";
+      break;
+
+      case"279417":
+      test.style.display = "flex";
+      display.innerText = "Vhahanwele Vanessa";
+      break;
+
+      case"260290":
+      test.style.display = "flex";
+      display.innerText = "Sammer Behrends";
+      break;
+
+      case"341987":
+      test.style.display = "flex";
+      display.innerText = "Princess Zulu";
+      break;
+
+      case"349989":
+      test.style.display = "flex";
+      display.innerText = "Mbonane Ntokozo";
+      break;
+
+      case"349141":
+      test.style.display = "flex";
+      display.innerText = "Norman Jacobs";
+      break;
+
+      case"998508":
+      test.style.display = "flex";
+      display.innerText = "Pilly Myrom";
+      break;
+
+      case"889985":
+      test.style.display = "flex";
+      display.innerText = "Pontso Tsotetsi";
+      break;
+
+      case"000889":
+      test.style.display = "flex";
+      display.innerText = "Maria Mashabela";
+      break;
+
+      case"889072":
+      test.style.display = "flex";
+      display.innerText = "Thato Maimane";
+      break;
+
+      case"058951":
+      test.style.display = "flex";
+      display.innerText = "Nompumelelo Emkhari";
+      break;
+
+
   default:
     {
       test.style.display = "None";
